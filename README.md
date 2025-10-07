@@ -1,9 +1,6 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Anitha+Thikka;Full+Stack+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things!">
-</h1>
+<h1 align="center">Hi 👋, I'm Anitha Thikka</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver 🚀</h3>
 
-<!-- Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/anitha-thikka-705176291">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,26 +17,32 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anitha-2103&label=Profile%20views&color=00C853&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anitha-2103&label=Profile%20views&color=0e75b6&style=flat" alt="anitha-2103" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Pursuing **B.Tech in Computer Science (2022–2026)** at *QIS College of Engineering and Technology, Ongole*  
-💡 Passionate about **building creative and scalable web apps**  
-🌱 Currently learning **AI/ML and API Development**  
-🧠 Skilled in **Python, Java, HTML, CSS, JavaScript, Flask, MySQL**  
-🤝 Open to collaborating on **real-world projects**  
-🌍 Check out my [Portfolio](https://anitha-portfolio.vercel.app)
+- 🌟 Passionate about **building creative and scalable web apps**
+- 🌱 Currently exploring **AI/ML** and **API Development**
+- 💬 Love working with **Python, Java, and JavaScript**
+- 💡 Open to collaborating on **real-world projects** and innovative ideas
+- 🌐 Check out my [Portfolio](https://anitha-portfolio.vercel.app)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Expertise Snapshot
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,git,github,vscode&theme=dark" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -47,12 +50,12 @@
 ## 🧠 Featured Projects
 
 ### 🌍 Language Translator  
-A real-time translator that converts text or speech between languages using Python and web APIs.  
-**Tech:** Python, Flask, HTML, CSS, JavaScript  
+> A real-time translator that converts text or speech between languages using Python and web APIs.  
+Tech: *Python, Flask, HTML, CSS, JavaScript*
 
 ### 🎯 Career Recommendation System  
-A web app that suggests careers based on students’ skills and interests.  
-**Tech:** Python, Flask, MySQL, HTML, CSS, JS  
+> A simple web-based app that helps students choose the right career path based on their skills and interests.  
+Tech: *Python, Flask, MySQL, HTML, CSS, JS*
 
 ---
 
@@ -64,31 +67,18 @@ A web app that suggests careers based on students’ skills and interests.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitha-2103&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitha-2103&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anitha-2103&bg_color=1a1b27&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anitha-2103&show_icons=true&theme=tokyonight" alt="Anitha's GitHub stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitha-2103&theme=tokyonight" alt="GitHub Streak" height="180em" />
 </p>
 
 ---
 
-## 🌈 Fun Extras
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF" />
-</p>
-
-💬 *“Code. Create. Conquer.”*  
-✨ Always curious, always learning.
+## ⚡ Fun Fact  
+💬 “Code is like humor. When you have to explain it, it’s bad.” 😄
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+connect+and+create+something+awesome!">
-</p>
-# Anitha_Thikka
+⭐ *Let’s connect and build something amazing together!*
