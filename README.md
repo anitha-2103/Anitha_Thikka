@@ -1,80 +1,99 @@
-<h1 align="center">Hi 👋, I'm Anitha Thikka</h1>
-<h3 align="center">A Passionate Computer Science Engineer from Andhra Pradesh</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Anitha+Thikka;Full+Stack+Developer+💻;AI%2FML+Explorer+🤖;Turning+Ideas+into+Impact+🚀">
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Social Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anitha-thikka-705176291">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anithaanithathikka@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/anitha-2103">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://anitha-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
----
-
-### 🚀 About Me
-🎓 I'm currently pursuing **B.Tech in Computer Science** at *QIS College of Engineering and Technology, Ongole (2022–2026)*  
-💡 I enjoy building web projects and exploring new technologies  
-🎯 I’m looking for opportunities to apply my skills and grow as a **Software Developer**  
-🌱 Currently learning **Full Stack Web Development**  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anitha-2103&label=Profile%20views&color=00C853&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-### 💡 Projects
+## 🚀 About Me
 
-#### 🌍 [Language Translator](https://github.com/anitha-2103)
-A real-time translator that converts speech or text between languages using Python and web technologies.  
-🧠 Integrates **speech recognition**, **translation API**, and **text-to-speech** for seamless communication.
+I'm **Anitha Thikka**, a passionate **Full Stack Developer** and **AI/ML Explorer** from Andhra Pradesh, India.  
+I love blending creativity and logic to build smart, data-driven web applications that make an impact.  
 
-#### 🧭 [Career Recommendation System](https://github.com/anitha-2103)
-A web-based system that helps students choose careers based on their interests and skills using **Python, HTML, CSS, JavaScript, and MySQL**.
+💡 My interests lie in **Machine Learning, AI, and modern web technologies** — where innovation meets intelligence.  
+🧩 I enjoy solving complex problems, learning cutting-edge tools, and transforming ideas into functional projects.  
+🎯 My goal is to contribute to the world of **intelligent systems and scalable web solutions** while constantly upgrading my skills.  
+
+<p align="center">
+  <a href="https://anitha-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio">
+  </a>
+</p>
 
 ---
 
-### 🏅 Certifications
-- 🌐 **Internet of Things** – NPTEL  
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+### 🌍 [Language Translator](https://github.com/anitha-2103)
+A real-time translator that converts text or speech between languages using Python and web APIs.  
+**Tech:** Python, Flask, HTML, CSS, JavaScript  
+
+### 🎯 [Career Recommendation System](https://github.com/anitha-2103)
+A web app that helps students choose the right career path based on their skills and interests.  
+**Tech:** Python, Flask, MySQL, HTML, CSS, JS  
+
+---
+
+## 🏅 Certifications
+
+- 📘 **Internet of Things** – NPTEL  
 - 🐍 **Python Programming** – CodeTantra  
 - 💻 **Web Full Stack Developer Internship** – Eduskills  
 
 ---
 
-### 💬 Soft Skills
-✨ Communication  
-🧠 Self Development  
-⏰ Time Management  
-💪 Ability to take challenges  
+## 📊 GitHub Stats & Activity
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitha-2103&show_icons=true&theme=radical" alt="Anitha's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitha-2103&theme=radical" alt="GitHub Streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anitha-2103&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitha-2103&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anitha-2103&bg_color=1a1b27&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:anithaanithathikka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/anitha-thikka-705176291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/anitha-2103"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
+## 🌈 Fun Extras
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF" />
 </p>
+
+💬 *“Code. Create. Conquer.”*  
+✨ Always curious, always learning.
 
 ---
 
-⭐ *“Code. Create. Conquer.”*  
-🦋 *Let's connect and grow together!*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+connect+and+create+something+awesome!">
+</p>
