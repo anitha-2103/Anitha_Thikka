@@ -30,7 +30,6 @@
 I'm **Anitha Thikka**, a passionate **Full Stack Developer** and **AI/ML Explorer** from Andhra Pradesh, India.  
 I love blending creativity and logic to build smart, data-driven web applications that make an impact.  
 
-💡 My interests lie in **Machine Learning, AI, and modern web technologies** — where innovation meets intelligence.  
 🧩 I enjoy solving complex problems, learning cutting-edge tools, and transforming ideas into functional projects.  
 🎯 My goal is to contribute to the world of **intelligent systems and scalable web solutions** while constantly upgrading my skills.  
 
